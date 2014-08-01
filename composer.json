@@ -14,5 +14,16 @@
             "email": "milos.colakovic@devana.rs"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "scripts": {        
+        "pre-update-cmd": [
+            "rm ./vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/Symfony2 -r --force"
+        ],
+        "post-install-cmd": [
+            "cp -r ./vendor/instaclick/symfony2-coding-standard/Symfony2 ./vendor/squizlabs/php_codesniffer/CodeSniffer/Standards"
+        ],
+        "post-update-cmd": [
+            "cp -r ./vendor/instaclick/symfony2-coding-standard/Symfony2 ./vendor/squizlabs/php_codesniffer/CodeSniffer/Standards"
+        ]
+    }
 }
