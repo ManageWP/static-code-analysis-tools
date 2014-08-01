@@ -1,6 +1,6 @@
 {
-    "name": "briareos/static-analysis-tools",
-    "description": "Tools for PHP code analisys",
+    "name": "ManageWP/static-code-analysis-tools",
+    "description": "Tools for PHP code analisys - PHP Mess Detector, PHP Code Sniffer (+ Symfony2 rule), PHP Coding Standard Fixer",
     "require": {
         "phpmd/phpmd": "~2.0",
         "squizlabs/php_codesniffer": "~2.0",
