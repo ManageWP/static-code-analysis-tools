@@ -1,6 +1,6 @@
 {
     "name": "managewp/static-code-analysis-tools",
-    "description": "Tools for PHP code analisys - PHP Mess Detector, PHP Code Sniffer (+ Symfony2 rule), PHP Coding Standard Fixer",
+    "description": "Tools for PHP code analisys - PHP Mess Detector, PHP Code Sniffer (+ Symfony2 rule), PHP Coding Standard Fixer, PHPUnit, PHP cope-paste detector, PHP lines-of-code, PHP documentor, PHP code browser.",
     "require": {
         "phpmd/phpmd": "~2.0",
         "squizlabs/php_codesniffer": "~2.0",
@@ -30,5 +30,8 @@
         "post-update-cmd": [
             "cp -r ./vendor/instaclick/symfony2-coding-standard/Symfony2 ./vendor/squizlabs/php_codesniffer/CodeSniffer/Standards"
         ]
+    },
+    "config": {
+        "bin-dir": "bin"
     }
 }
