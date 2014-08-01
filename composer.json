@@ -1,5 +1,5 @@
 {
-    "name": "ManageWP/static-code-analysis-tools",
+    "name": "managewp/static-code-analysis-tools",
     "description": "Tools for PHP code analisys - PHP Mess Detector, PHP Code Sniffer (+ Symfony2 rule), PHP Coding Standard Fixer",
     "require": {
         "phpmd/phpmd": "~2.0",
