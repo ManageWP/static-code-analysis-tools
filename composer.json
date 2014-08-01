@@ -1,0 +1,18 @@
+{
+    "name": "briareos/static-analysis-tools",
+    "description": "Tools for PHP code analisys",
+    "require": {
+        "phpmd/phpmd": "~2.0",
+        "squizlabs/php_codesniffer": "~2.0",
+        "fabpot/php-cs-fixer": "~0.5",
+        "instaclick/symfony2-coding-standard": "dev-remaster#180a19d2a81c6c5688326ea62e63f2b8c5944142"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Milos Colakovic",
+            "email": "milos.colakovic@devana.rs"
+        }
+    ],
+    "minimum-stability": "dev"
+}
