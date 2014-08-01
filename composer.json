@@ -5,7 +5,12 @@
         "phpmd/phpmd": "~2.0",
         "squizlabs/php_codesniffer": "~2.0",
         "fabpot/php-cs-fixer": "~0.5",
-        "instaclick/symfony2-coding-standard": "dev-remaster#180a19d2a81c6c5688326ea62e63f2b8c5944142"
+        "instaclick/symfony2-coding-standard": "dev-remaster#180a19d2a81c6c5688326ea62e63f2b8c5944142",
+        "sebastian/phpcpd": "~2.0",
+        "phploc/phploc": "~2.0",
+        "phpunit/phpunit": "~4.1",
+        "mayflower/php-codebrowser": "~1.1",
+        "phpdocumentor/phpdocumentor": "~2.6"
     },
     "license": "MIT",
     "authors": [
