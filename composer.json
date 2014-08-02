@@ -31,6 +31,7 @@
             "cp -r ./vendor/instaclick/symfony2-coding-standard/Symfony2 ./vendor/squizlabs/php_codesniffer/CodeSniffer/Standards"
         ]
     },
+    "prefer-stable": true,
     "config": {
         "bin-dir": "bin"
     }
