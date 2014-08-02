@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "899e9c1917d90d2bbee73a0b27f15b5c",
+    "hash": "daec2c1cf2a6d1352ed1c88c85c70481",
     "packages": [
         {
             "name": "cilex/cilex",
@@ -335,12 +335,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabpot/PHP-CS-Fixer.git",
-                "reference": "4bfe11d31acbfec74457757cbb7c564578b414a8"
+                "reference": "0e2801754124d6413b37a40f536f0422cad98b77"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabpot/PHP-CS-Fixer/zipball/4bfe11d31acbfec74457757cbb7c564578b414a8",
-                "reference": "4bfe11d31acbfec74457757cbb7c564578b414a8",
+                "url": "https://api.github.com/repos/fabpot/PHP-CS-Fixer/zipball/0e2801754124d6413b37a40f536f0422cad98b77",
+                "reference": "0e2801754124d6413b37a40f536f0422cad98b77",
                 "shasum": ""
             },
             "require": {
@@ -375,7 +375,7 @@
                 }
             ],
             "description": "A script to automatically fix Symfony Coding Standard",
-            "time": "2014-08-01 06:27:16"
+            "time": "2014-08-02 05:48:15"
         },
         {
             "name": "instaclick/symfony2-coding-standard",
@@ -1123,12 +1123,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/phpDocumentor2.git",
-                "reference": "23918e7fd8dc250112fd90f6003c7ca747537081"
+                "reference": "b417cb1b04d5828aadd6bd040ad218457b689a06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/phpDocumentor2/zipball/23918e7fd8dc250112fd90f6003c7ca747537081",
-                "reference": "23918e7fd8dc250112fd90f6003c7ca747537081",
+                "url": "https://api.github.com/repos/phpDocumentor/phpDocumentor2/zipball/b417cb1b04d5828aadd6bd040ad218457b689a06",
+                "reference": "b417cb1b04d5828aadd6bd040ad218457b689a06",
                 "shasum": ""
             },
             "require": {
@@ -1214,7 +1214,7 @@
                 "documentation",
                 "phpdoc"
             ],
-            "time": "2014-08-01 06:28:18"
+            "time": "2014-08-01 20:51:36"
         },
         {
             "name": "phpdocumentor/reflection",
@@ -2051,12 +2051,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "ce9e9afbd53283288a5f40fcf4789b7cc1ca5632"
+                "reference": "f54732b51bb6d7c3450e487b48c54327d655a38c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/ce9e9afbd53283288a5f40fcf4789b7cc1ca5632",
-                "reference": "ce9e9afbd53283288a5f40fcf4789b7cc1ca5632",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/f54732b51bb6d7c3450e487b48c54327d655a38c",
+                "reference": "f54732b51bb6d7c3450e487b48c54327d655a38c",
                 "shasum": ""
             },
             "require": {
@@ -2117,7 +2117,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-07-30 20:01:24"
+            "time": "2014-08-02 12:06:02"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -2125,12 +2125,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit-mock-objects.git",
-                "reference": "f9f31b9e7f93483fd4dbd500ee41e2e5fc0923b7"
+                "reference": "bc24fb59e997fc48f7cf8c839fe2beaedc76389b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit-mock-objects/zipball/f9f31b9e7f93483fd4dbd500ee41e2e5fc0923b7",
-                "reference": "f9f31b9e7f93483fd4dbd500ee41e2e5fc0923b7",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit-mock-objects/zipball/bc24fb59e997fc48f7cf8c839fe2beaedc76389b",
+                "reference": "bc24fb59e997fc48f7cf8c839fe2beaedc76389b",
                 "shasum": ""
             },
             "require": {
@@ -2175,7 +2175,7 @@
                 "mock",
                 "xunit"
             ],
-            "time": "2014-07-05 15:46:50"
+            "time": "2014-08-02 13:51:34"
         },
         {
             "name": "pimple/pimple",
@@ -2674,25 +2674,27 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "dev-phpcs-fixer",
+            "version": "1.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "8080aeb51a5211ac4a4a9fe16e8a0b18150f1d2c"
+                "reference": "396178ada8499ec492363587f037125bf7b07fcc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/8080aeb51a5211ac4a4a9fe16e8a0b18150f1d2c",
-                "reference": "8080aeb51a5211ac4a4a9fe16e8a0b18150f1d2c",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/396178ada8499ec492363587f037125bf7b07fcc",
+                "reference": "396178ada8499ec492363587f037125bf7b07fcc",
                 "shasum": ""
             },
             "require": {
                 "ext-tokenizer": "*",
                 "php": ">=5.1.2"
             },
+            "suggest": {
+                "phpunit/php-timer": "dev-master"
+            },
             "bin": [
-                "scripts/phpcs",
-                "scripts/phpcbf"
+                "scripts/phpcs"
             ],
             "type": "library",
             "extra": {
@@ -2706,12 +2708,12 @@
                     "CodeSniffer/CLI.php",
                     "CodeSniffer/Exception.php",
                     "CodeSniffer/File.php",
-                    "CodeSniffer/Fixer.php",
                     "CodeSniffer/Report.php",
                     "CodeSniffer/Reporting.php",
                     "CodeSniffer/Sniff.php",
                     "CodeSniffer/Tokens.php",
                     "CodeSniffer/Reports/",
+                    "CodeSniffer/CommentParser/",
                     "CodeSniffer/Tokenizers/",
                     "CodeSniffer/DocGenerators/",
                     "CodeSniffer/Standards/AbstractPatternSniff.php",
@@ -2743,7 +2745,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2014-07-29 23:17:03"
+            "time": "2014-05-01 03:07:07"
         },
         {
             "name": "symfony/config",
@@ -3376,12 +3378,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fabpot/Twig.git",
-                "reference": "21f0b829f9ad6be48ae778136682b5998d2149aa"
+                "reference": "0c508d270328614594b749564f1c52325023dd4a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fabpot/Twig/zipball/21f0b829f9ad6be48ae778136682b5998d2149aa",
-                "reference": "21f0b829f9ad6be48ae778136682b5998d2149aa",
+                "url": "https://api.github.com/repos/fabpot/Twig/zipball/0c508d270328614594b749564f1c52325023dd4a",
+                "reference": "0c508d270328614594b749564f1c52325023dd4a",
                 "shasum": ""
             },
             "require": {
@@ -3425,7 +3427,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2014-08-01 07:38:44"
+            "time": "2014-08-01 15:28:52"
         },
         {
             "name": "zendframework/zend-cache",
@@ -4009,21 +4011,13 @@
             "time": "2013-12-19 11:40:00"
         }
     ],
-    "packages-dev": [
-
-    ],
-    "aliases": [
-
-    ],
+    "packages-dev": [],
+    "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
         "instaclick/symfony2-coding-standard": 20
     },
     "prefer-stable": false,
-    "platform": [
-
-    ],
-    "platform-dev": [
-
-    ]
+    "platform": [],
+    "platform-dev": []
 }

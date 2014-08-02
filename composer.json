@@ -3,7 +3,7 @@
     "description": "Tools for PHP code analisys - PHP Mess Detector, PHP Code Sniffer (+ Symfony2 rule), PHP Coding Standard Fixer, PHPUnit, PHP cope-paste detector, PHP lines-of-code, PHP documentor, PHP code browser.",
     "require": {
         "phpmd/phpmd": "~2.0",
-        "squizlabs/php_codesniffer": "~2.0",
+        "squizlabs/php_codesniffer": "~1.5",
         "fabpot/php-cs-fixer": "~0.5",
         "instaclick/symfony2-coding-standard": "dev-remaster#180a19d2a81c6c5688326ea62e63f2b8c5944142",
         "sebastian/phpcpd": "~2.0",
